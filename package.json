@@ -1,0 +1,29 @@
+{
+  "name": "build-my-meta",
+  "version": "1.1.0",
+  "description": "A flexible and powerful package for logging metadata from API calls, compatible with multiple databases (MongoDB, PostgreSQL, MySQL, etc.).",
+  "main": "index.js",
+  "author": "Workforwin <contact@workforwin.com>",
+  "license": "MIT",
+  "keywords": [
+    "metadata",
+    "logging",
+    "MongoDB",
+    "API",
+    "Workforwin",
+    "nodejs",
+    "winston",
+    "SQL",
+    "PostgreSQL",
+    "firebase",
+    "redis"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ankit5999/buildmymeta.git"
+  },
+  "homepage": "https://opensource.workforwin.com/",
+  "bugs": {
+    "url": "https://github.com/ankit5999/buildmymeta/issues"
+  }
+}
